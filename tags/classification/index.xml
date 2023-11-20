@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Alberto Fuentes Arce</title>
+    <link>https://AlbertoFuentesArce.github.io/Portfolio/tags/classification/</link>
+    <description>Recent content in classification on Alberto Fuentes Arce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Nov 2023 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://AlbertoFuentesArce.github.io/Portfolio/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loan Default Prediction using ANNs</title>
+      <link>https://AlbertoFuentesArce.github.io/Portfolio/post/loan-default-prediction-using-dnns/</link>
+      <pubDate>Tue, 14 Nov 2023 11:00:59 -0400</pubDate>
+      <guid>https://AlbertoFuentesArce.github.io/Portfolio/post/loan-default-prediction-using-dnns/</guid>
+      <description>This case study covers the entire machine learning pipeline in an attempt to produce useful models with Deep Neural Networks (DNNs) that can be used in the loan industry. The study focuses on minimizing financial risk for the lending company. By conducting an in-depth Exploratory Data Analysis (EDA), we examine the relationships between variables. In the preprocessing stage, we transform the data and perform feature engineering to enhance our model predictions.</description>
+    </item>
+  </channel>
+</rss>

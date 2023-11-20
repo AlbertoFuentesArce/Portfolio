@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Alberto Fuentes Arce</title>
+    <link>https://AlbertoFuentesArce.github.io/Portfolio/es/tags/classification/</link>
+    <description>Recent content in classification on Alberto Fuentes Arce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 14 Nov 2023 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://AlbertoFuentesArce.github.io/Portfolio/es/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicción de Incumplimiento de Préstamos mediante Redes Neuronales Artificiales (ANN).</title>
+      <link>https://AlbertoFuentesArce.github.io/Portfolio/es/post/loan-default-prediction-using-dnns/</link>
+      <pubDate>Tue, 14 Nov 2023 11:00:59 -0400</pubDate>
+      <guid>https://AlbertoFuentesArce.github.io/Portfolio/es/post/loan-default-prediction-using-dnns/</guid>
+      <description>Este estudio de caso abarca todo el proceso de aprendizaje automático en un intento de producir modelos útiles con Redes Neuronales Profundas (DNN) que puedan ser utilizados en la industria de préstamos. El estudio se centra en minimizar el riesgo financiero para la empresa prestamista. Mediante un Análisis Exploratorio de Datos (EDA) detallado, examinamos las relaciones entre las variables. En la etapa de preprocesamiento, transformamos los datos y realizamos ingeniería de características para mejorar las predicciones de nuestro modelo.</description>
+    </item>
+  </channel>
+</rss>

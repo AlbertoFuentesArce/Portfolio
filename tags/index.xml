@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alberto Fuentes Arce</title>
+    <link>https://AlbertoFuentesArce.github.io/Portfolio/tags/</link>
+    <description>Recent content in Tags on Alberto Fuentes Arce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Nov 2023 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://AlbertoFuentesArce.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>classification</title>
+      <link>https://AlbertoFuentesArce.github.io/Portfolio/tags/classification/</link>
+      <pubDate>Tue, 14 Nov 2023 11:00:59 -0400</pubDate>
+      <guid>https://AlbertoFuentesArce.github.io/Portfolio/tags/classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>forecasting</title>
+      <link>https://AlbertoFuentesArce.github.io/Portfolio/tags/forecasting/</link>
+      <pubDate>Thu, 11 May 2023 10:58:08 -0400</pubDate>
+      <guid>https://AlbertoFuentesArce.github.io/Portfolio/tags/forecasting/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

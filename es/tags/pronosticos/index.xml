@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pronosticos on Alberto Fuentes Arce</title>
+    <link>https://AlbertoFuentesArce.github.io/Portfolio/es/tags/pronosticos/</link>
+    <description>Recent content in pronosticos on Alberto Fuentes Arce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 11 May 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://AlbertoFuentesArce.github.io/Portfolio/es/tags/pronosticos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pronóstico del tipo de cambio EUR/USD con simulaciones de Monte Carlo.</title>
+      <link>https://AlbertoFuentesArce.github.io/Portfolio/es/post/eurusd-preiciones-de-tipo-de-cambiog/</link>
+      <pubDate>Thu, 11 May 2023 10:58:08 -0400</pubDate>
+      <guid>https://AlbertoFuentesArce.github.io/Portfolio/es/post/eurusd-preiciones-de-tipo-de-cambiog/</guid>
+      <description>Este proyecto utiliza el Modelo de Movimiento Browniano Geométrico (GBM) para predecir la evolución futura del tipo de cambio EUR/USD. El GBM es un proceso estocástico comúnmente utilizado en modelado financiero para simular el movimiento aleatorio de activos como precios de acciones, tipos de cambio y precios de productos básicos. Este proyecto se desarrolló en un escenario real de gestión de riesgos para evaluar el riesgo que un cliente tenía en su cartera de derivados.</description>
+    </item>
+  </channel>
+</rss>

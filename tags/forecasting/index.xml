@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forecasting on Alberto Fuentes Arce</title>
+    <link>https://AlbertoFuentesArce.github.io/Portfolio/tags/forecasting/</link>
+    <description>Recent content in forecasting on Alberto Fuentes Arce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 May 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://AlbertoFuentesArce.github.io/Portfolio/tags/forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EUR/USD Exchange Rate Forecasting with Monte Carlo Simulations</title>
+      <link>https://AlbertoFuentesArce.github.io/Portfolio/post/eurusd-exchange-rate-forecasting/</link>
+      <pubDate>Thu, 11 May 2023 10:58:08 -0400</pubDate>
+      <guid>https://AlbertoFuentesArce.github.io/Portfolio/post/eurusd-exchange-rate-forecasting/</guid>
+      <description>This project uses the Geometric Brownian Motion (GBM) Model to predict the future evolution of the EUR/USD exchange rate. GBM is a stochastic process commonly used in financial modeling to simulate the random movement of assets such as stock prices, exchange rates, and commodity prices. This project was developed in a real risk management scenario to assess the risk that a client had in his derivatives portfolio. Other analyses, such as VAR, were also performed.</description>
+    </item>
+  </channel>
+</rss>
